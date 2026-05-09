@@ -21,7 +21,7 @@ namespace ProductAPI
 
             app.MapControllers();
 
-            app.Run();
+            app.Run(); // Start point
         }
     }
 }
